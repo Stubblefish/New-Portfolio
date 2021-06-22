@@ -64,8 +64,8 @@ nav {
   background: radial-gradient(at center center, #2d7e9270 0%, #1c40617c 100%),
     url("./background-img.jpg");
   height: 100vh;
-  /* background-size: center;
-  background-position: center; */
+  background-size: cover;
+  background-position: center;
 }
 
 @media screen and (max-width: 850px) {
