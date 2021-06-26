@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New-Portfolio/static/css/main.df614813.chunk.css",
+    "main.js": "/New-Portfolio/static/js/main.2f0f1486.chunk.js",
+    "main.js.map": "/New-Portfolio/static/js/main.2f0f1486.chunk.js.map",
+    "runtime-main.js": "/New-Portfolio/static/js/runtime-main.7f8d07d5.js",
+    "runtime-main.js.map": "/New-Portfolio/static/js/runtime-main.7f8d07d5.js.map",
+    "static/js/2.83157a91.chunk.js": "/New-Portfolio/static/js/2.83157a91.chunk.js",
+    "static/js/2.83157a91.chunk.js.map": "/New-Portfolio/static/js/2.83157a91.chunk.js.map",
+    "index.html": "/New-Portfolio/index.html",
+    "static/css/main.df614813.chunk.css.map": "/New-Portfolio/static/css/main.df614813.chunk.css.map",
+    "static/js/2.83157a91.chunk.js.LICENSE.txt": "/New-Portfolio/static/js/2.83157a91.chunk.js.LICENSE.txt",
+    "static/media/Eats-on-wheels.59d8397e.jpg": "/New-Portfolio/static/media/Eats-on-wheels.59d8397e.jpg",
+    "static/media/Headshot.ffbc3461.jpg": "/New-Portfolio/static/media/Headshot.ffbc3461.jpg",
+    "static/media/Vibe.32633f93.jpg": "/New-Portfolio/static/media/Vibe.32633f93.jpg",
+    "static/media/App.css": "/New-Portfolio/static/media/background-img.78c33e66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f8d07d5.js",
+    "static/js/2.83157a91.chunk.js",
+    "static/css/main.df614813.chunk.css",
+    "static/js/main.2f0f1486.chunk.js"
+  ]
+}
