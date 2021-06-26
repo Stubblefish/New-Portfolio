@@ -1,9 +1,9 @@
 import React from "react";
 
 const Footer = () => {
-    return     <div className="Footer">
+    return     <div className="Footer-box">
         
-        <h2>George Wise Contact Info</h2>
+        <h2>Contact Info</h2>
     <div>
         <ul>
             <li>
@@ -13,7 +13,7 @@ const Footer = () => {
                 George.l.wise@gmail.com
             </li>
             <li>
-                A location in Scotts Valley CA
+                Scotts Valley, CA
             </li>
         </ul>
     </div>

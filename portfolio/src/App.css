@@ -179,6 +179,47 @@ nav {
   padding-top: 10%;
 }
 
+.Footer-box {
+  display: flex;
+  position: relative;
+  top: 15%;
+  margin-top: 20px;
+  margin: 20px auto auto auto;
+  min-height: 10vh;
+  justify-content: center;
+  border: 10px solid white;
+  background-color: white;
+  opacity: 0.85;
+  border-radius: 40px;
+  width: 60%;
+}
+
+.Footer-box h2 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin: 0;
+  font-size: 40px;
+}
+
+.Footer-box div {
+  line-height: 1.5;
+}
+
+.Footer-box div ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: right;
+  list-style: none;
+}
+
+.Footer-box div ul li {
+  padding: 10px 15px;
+  font-weight: lighter;
+  font-size: 1.5;
+  color: rgb(0, 0, 0);
+}
+
 @media screen and (max-width: 850px) {
   body {
     overflow-x: hidden;
