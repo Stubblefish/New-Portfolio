@@ -1,15 +1,20 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import "./App.css";
-import Showcase from "./components/Showcase";
+import Portfolio from "./components/Portfolio/Portfolio";
+import Bio from "./components/Bio/Bio";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
     <div>
       <Navbar></Navbar>
-      <div className="main"></div>
-      <Showcase />
+      <div className="main">
+        <Bio></Bio>
+        <Portfolio />
+        <Footer />
+      </div>
     </div>
   );
 };

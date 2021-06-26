@@ -4,7 +4,7 @@ import React, {useState} from "react";
 const Navbar = () => {
 
  const [navLinkOpen, navLinkToggle] = useState(false)
- 
+
 const handleNavLinksToggle = () => {
     navLinkToggle(!navLinkOpen);
 };
